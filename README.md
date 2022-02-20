@@ -10,4 +10,4 @@
 - JavaScript
 - JQuery
 
-<img src="https://raw.githubusercontent.com/maidul-bappy/agency-portfolio/master/Preview.jpg" alt="Digibyte" border="0" max-width='50%'>
+<img src="https://raw.githubusercontent.com/maidul-bappy/agency-portfolio/master/Preview.png" alt="Digibyte" border="0" max-width='50%'>
